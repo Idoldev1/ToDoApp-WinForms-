@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\TodoWF\bin\Debug\net6.0-windows\TodoWF.exe
+C:\Users\Hp\Desktop\TodoWF\bin\Debug\net6.0-windows\TodoWF.deps.json
+C:\Users\Hp\Desktop\TodoWF\bin\Debug\net6.0-windows\TodoWF.runtimeconfig.json
+C:\Users\Hp\Desktop\TodoWF\bin\Debug\net6.0-windows\TodoWF.dll
+C:\Users\Hp\Desktop\TodoWF\bin\Debug\net6.0-windows\TodoWF.pdb
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.dll
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\refint\TodoWF.dll
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.pdb
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\TodoWF.genruntimeconfig.cache
+C:\Users\Hp\Desktop\TodoWF\obj\Debug\net6.0-windows\ref\TodoWF.dll

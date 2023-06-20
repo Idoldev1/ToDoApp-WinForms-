@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ms-dotnettools.csharp",
+        "jmrog.vscode-nuget-package-manager",
+        "ironmansoftware.powershellprotools"
+    ]
+}
